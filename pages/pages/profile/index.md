@@ -15,7 +15,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <img src="iwa.jpg" alt="jaxx2104" class="rounded-circle mx-auto d-block" width="120px">
     <h1>jaxx2104</h1>
-    <p class="lead text-muted">コーラとバグが好き</p>
+    <p class="lead text-muted">Josh Bezdek</p>
     <div class="service-box">
         <a href=""><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
         <a href=""><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
